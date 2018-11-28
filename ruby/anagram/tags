@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Anagram	anagram.rb	/^class Anagram$/;"	c
+AnagramTest	anagram_test.rb	/^class AnagramTest < Minitest::Test$/;"	c
+String	anagram.rb	/^class String$/;"	c
+initialize	anagram.rb	/^  def initialize(word)$/;"	f	class:Anagram
+is_anagram_of?	anagram.rb	/^  def is_anagram_of?(word)$/;"	f	class:String
+match	anagram.rb	/^  def match(word_array)$/;"	f	class:Anagram
+test_anagrams_must_use_all_letters_exactly_once	anagram_test.rb	/^  def test_anagrams_must_use_all_letters_exactly_once$/;"	f	class:AnagramTest
+test_detects_anagram	anagram_test.rb	/^  def test_detects_anagram$/;"	f	class:AnagramTest
+test_detects_anagrams_case_insensitively	anagram_test.rb	/^  def test_detects_anagrams_case_insensitively$/;"	f	class:AnagramTest
+test_detects_anagrams_using_case_insensitive_possible_matches	anagram_test.rb	/^  def test_detects_anagrams_using_case_insensitive_possible_matches$/;"	f	class:AnagramTest
+test_detects_anagrams_using_case_insensitive_subject	anagram_test.rb	/^  def test_detects_anagrams_using_case_insensitive_subject$/;"	f	class:AnagramTest
+test_detects_three_anagrams	anagram_test.rb	/^  def test_detects_three_anagrams$/;"	f	class:AnagramTest
+test_detects_two_anagrams	anagram_test.rb	/^  def test_detects_two_anagrams$/;"	f	class:AnagramTest
+test_does_not_detect_a_anagram_if_the_original_word_is_repeated	anagram_test.rb	/^  def test_does_not_detect_a_anagram_if_the_original_word_is_repeated$/;"	f	class:AnagramTest
+test_does_not_detect_anagram_subsets	anagram_test.rb	/^  def test_does_not_detect_anagram_subsets$/;"	f	class:AnagramTest
+test_does_not_detect_non_anagrams_with_identical_checksum	anagram_test.rb	/^  def test_does_not_detect_non_anagrams_with_identical_checksum$/;"	f	class:AnagramTest
+test_no_matches	anagram_test.rb	/^  def test_no_matches$/;"	f	class:AnagramTest
+test_words_are_not_anagrams_of_themselves_case_insensitive	anagram_test.rb	/^  def test_words_are_not_anagrams_of_themselves_case_insensitive$/;"	f	class:AnagramTest
